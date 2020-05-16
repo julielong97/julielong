@@ -1,0 +1,152 @@
+nav a {
+	color:#482B7A;
+	font-size: 13pt;
+	text-decoration: none;
+	font-family:'Shree Devanagari 714'; 'Arial';
+	margin-right: 40px;
+	margin-left: 40px;
+	
+}
+
+nav{
+	text-align: center;
+	background-color:#f0f0f0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.logo{
+	margin-left: 50px;
+}
+
+i{
+	color: #1DA1F2;
+	font-size: 40pt;
+}
+
+h1{
+	color: #EEA220;
+	font-size: 50pt;
+	text-align: center;
+	
+}
+
+.heroimg{
+	background-image:url(Hero_image_p2.jpg);
+	background-size: cover;
+	text-align: center;
+	color:#482B7A;
+	font-size: 30pt;
+	padding: 200px;
+}
+
+button{
+	font-size: 25pt;
+	font-family: 'Shree Devanagari 714';
+	color:white;
+	padding: 40px;
+	background-color: #482B7A ;
+	border-radius: 80px;
+	border: solid #482B7A 0px;
+	font-style: italic;
+}
+
+
+.grill{
+	display: grid;
+	height: 500px;
+	background-color: #f0f0f0;
+	grid-template-columns: 30% 30% 30%;
+	padding-left: 30px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	grid-column-gap: 50px;
+	
+}
+
+.frame{
+	border: solid #d3d3d3 3px;
+	padding-left: 30px;
+	padding-right: 30px;
+	background-color: white;
+}
+
+.indent{
+	
+	text-indent: 30px;
+	line-height: 20px;
+}
+
+.pricea{
+	font-family: 'Shree Devanagari 714';
+	font-size: 12pt;
+	margin: 30px 20px 30px 20px;
+	text-align: center;
+}
+
+.callus{
+	color:#482B7A;
+	font-family: 'Helvetica Neue';
+	font-size: 30pt;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: 600px;
+	font-style: italic;
+}
+
+div{
+	font-family: ''Shree Devanagari 714';
+}
+
+h2{
+	color:#482B7A;
+	text-align: center;
+	font-size: 30pt;
+	
+}
+
+.grillb{
+	display: grid;
+	grid-template-columns: 50% 50%;
+	height: 400px;
+	margin-bottom: 50px;
+
+}
+
+.grillbis{
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-row-gap: 5px;
+
+}
+
+.divb{
+	background-color:#f0f0f0;
+	padding-top: 30px;
+	padding-bottom: 90px;
+}
+
+.pricetag{
+	font-size: 30pt;
+	color:#482B7A;
+}
+
+figcaption{
+	font-family: 'Shree Devanagari 714';
+	font-size: 12pt;
+	margin-top: 20px;
+	margin-left: 130px;
+	padding-right: 30px;
+}
+
+.image{
+	margin-left: 120px;
+}
+footer{
+	text-align: center;
+	color:grey;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	
+}
