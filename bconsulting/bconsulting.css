@@ -4,7 +4,7 @@ nav a {
 	color: #482B7A;
 	font-size: 13pt;
 	text-decoration: none;
-	font-family:'Shree Devanagari 714';
+	font-family:'Shree Devanagari 714','Helvetica Neue';
 	margin-right: 40px;
 	margin-left: 40px;
 
@@ -39,7 +39,7 @@ h2 {
 	color: #482B7A;
 	text-align: center;
 	font-size: 30pt;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 
 }
 
@@ -62,7 +62,7 @@ hr {
 
 button {
 	font-size: 25pt;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 	color: white;
 	padding: 40px;
 	background-color: #482B7A;
@@ -75,7 +75,7 @@ button {
 
 .callus {
 	color: #482B7A;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 	font-size: 30pt;
 	text-align: center;
 	margin-top: 20px;
@@ -103,7 +103,7 @@ button {
 	padding-left: 30px;
 	padding-right: 30px;
 	background-color: white;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 }
 
 .indent {
@@ -115,7 +115,7 @@ button {
 /* --- PRICING --- */
 
 .pricea {
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 	font-size: 12pt;
 	margin: 30px 20px 30px 20px;
 	text-align: center;
@@ -159,7 +159,7 @@ button {
 }
 
 figcaption {
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 	font-size: 12pt;
 	margin-top: 20px;
 	margin-left: 130px;
@@ -174,7 +174,7 @@ footer {
 	margin-top: 20px;
 	margin-bottom: 50px;
 	font-style: italic;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 	font-style: italic;
 
 }
@@ -190,7 +190,7 @@ footer {
 	margin-top: 200px;
 	margin-left: -300px;
 	line-height: -1;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 	font-size: 35pt;
 	font-weight:bolder;
 }
@@ -205,14 +205,14 @@ footer {
 .textus {
 	color: rgb(94, 94, 94);
 	font-size: 12pt;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 	text-indent: 30px;
 	text-align: justify;
 
 }
 
 h3 {
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 	font-size: 16pt;
 	margin-top: 50px;
 
@@ -221,7 +221,7 @@ h3 {
 .mail {
 	font-size: 25pt;
 	color: #EEA220;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 }
 
 .submail {
@@ -237,7 +237,7 @@ form {
 	margin-right: auto;
 	display: block;
 	text-align: center;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 }
 
 input[type=text] {
@@ -245,7 +245,7 @@ input[type=text] {
 	padding: 10px;
 	border: none;
 	border-bottom: solid 4px #cccccc;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-family: 'Shree Devanagari 714','Helvetica Neue';
 	font-size: 14pt;
 
 }
@@ -258,7 +258,7 @@ input[type=submit] {
 	padding: 20px;
 	text-decoration: none;
 	cursor: pointer;
-	font-family: 'SHree Devanagari 714';'Helvetica Neue';
+	font-family: 'SHree Devanagari 714','Helvetica Neue';
 	font-size: 14pt;
 	border-radius: 30px;
 
