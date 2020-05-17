@@ -103,6 +103,7 @@ button {
 	padding-left: 30px;
 	padding-right: 30px;
 	background-color: white;
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 }
 
 .indent {
@@ -110,6 +111,9 @@ button {
 	text-indent: 30px;
 	line-height: 20px;
 }
+
+/* --- PRICING --- */
+
 .pricea {
 	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 	font-size: 12pt;
@@ -117,11 +121,21 @@ button {
 	text-align: center;
 }
 
+.priceimg {
+	width: 90%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 
+.divb {
+	background-color: #f0f0f0;
+	padding-top: 30px;
+	padding-bottom: 90px;
+}
 
-div {
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
-
+.image {
+	margin-left: 120px;
 }
 
 .grillb {
@@ -139,12 +153,6 @@ div {
 
 }
 
-.divb {
-	background-color: #f0f0f0;
-	padding-top: 30px;
-	padding-bottom: 90px;
-}
-
 .pricetag {
 	font-size: 30pt;
 	color: #482B7A;
@@ -158,9 +166,7 @@ figcaption {
 	padding-right: 30px;
 }
 
-.image {
-	margin-left: 120px;
-}
+/* --- FOOTER ---*/
 
 footer {
 	text-align: center;
@@ -173,17 +179,7 @@ footer {
 
 }
 
-.mail {
-	font-size: 30pt;
-	color: #EEA220;
-}
-
-.aboutdiv {
-	width: 800px;
-	margin-left: auto;
-	margin-right: auto;
-
-}
+/* --- ABOUT --- */ 
 
 .aboutuspic {
 	margin-left: 200px;
@@ -199,10 +195,17 @@ footer {
 	font-weight:bolder;
 }
 
+.aboutdiv {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
 .textus {
 	color: rgb(94, 94, 94);
 	font-size: 12pt;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue'
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 	text-indent: 30px;
 	text-align: justify;
 
@@ -215,41 +218,26 @@ h3 {
 
 }
 
+.mail {
+	font-size: 25pt;
+	color: #EEA220;
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+}
+
 .submail {
 	text-align: center;
 	font-size: 14pt;
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 }
 
-.aboutbutton {
-	font-size: 14pt;
-	padding: 20px;
-	float: right;
-	margin-right: 50px;
-}
+/* --- MAILING --- */  
 
 form {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
-}
-
-.priceimg {
-	width: 90%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.citation{
-	padding: none;
-}
-
-
-/* --- MAILING --- */  
-
-form{
 	text-align: center;
-
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 }
 
 input[type=text] {
@@ -274,4 +262,9 @@ input[type=submit] {
 	font-size: 14pt;
 	border-radius: 30px;
 
+}
+
+input:hover[type=submit]{
+	background: #b49fe2;
+	border: none;
 }
