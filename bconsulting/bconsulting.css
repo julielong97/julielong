@@ -1,3 +1,5 @@
+/* --- HEADER/NAV ---*/
+
 nav a {
 	color: #482B7A;
 	font-size: 13pt;
@@ -33,6 +35,14 @@ h1 {
 
 }
 
+h2 {
+	color: #482B7A;
+	text-align: center;
+	font-size: 30pt;
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+
+}
+
 hr {
 	width: 50px;
 	height: 5px;
@@ -61,6 +71,20 @@ button {
 	font-style: italic;
 }
 
+/* --- CALL, MAIL ---*/
+
+.callus {
+	color: #482B7A;
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-size: 30pt;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: 600px;
+	font-style: italic;
+}
+
+/* --- SERVICE : DESCRIPTION --- */ 
 
 .grill {
 	display: grid;
@@ -86,7 +110,6 @@ button {
 	text-indent: 30px;
 	line-height: 20px;
 }
-
 .pricea {
 	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 	font-size: 12pt;
@@ -94,26 +117,9 @@ button {
 	text-align: center;
 }
 
-.callus {
-	color: #482B7A;
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
-	font-size: 30pt;
-	text-align: center;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	font-weight: 600px;
-	font-style: italic;
-}
+
 
 div {
-	font-family: 'Shree Devanagari 714';'Helvetica Neue';
-
-}
-
-h2 {
-	color: #482B7A;
-	text-align: center;
-	font-size: 30pt;
 	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 
 }
@@ -221,7 +227,7 @@ h3 {
 	margin-right: 50px;
 }
 
-<form {
+form {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
@@ -238,8 +244,12 @@ h3 {
 	padding: none;
 }
 
+
+/* --- MAILING --- */  
+
 form{
 	text-align: center;
+
 }
 
 input[type=text] {
