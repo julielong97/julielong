@@ -1,58 +1,60 @@
 nav a {
-	color:#482B7A;
+	color: #482B7A;
 	font-size: 13pt;
 	text-decoration: none;
-	font-family:'Shree Devanagari 714'; 'Arial';
+	font-family:'Shree Devanagari 714';
 	margin-right: 40px;
 	margin-left: 40px;
-	
+
 }
 
-nav{
+nav {
 	text-align: center;
-	background-color:#f0f0f0;
+	background-color: #f0f0f0;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
-.logo{
+.logo {
 	margin-left: 50px;
 }
 
-i{
+i {
 	color: #1DA1F2;
 	font-size: 40pt;
 }
 
-h1{
+h1 {
 	color: #EEA220;
 	font-size: 50pt;
 	text-align: center;
-	
+	font-family:'Tahoma';
+	font-weight: 200;
+
 }
 
-.heroimg{
-	background-image:url(Hero_image_p2.jpg);
+.heroimg {
+	background-image: url(Hero_image_p2.jpg);
 	background-size: cover;
 	text-align: center;
-	color:#482B7A;
+	color: #482B7A;
 	font-size: 30pt;
 	padding: 200px;
 }
 
-button{
+button {
 	font-size: 25pt;
-	font-family: 'Shree Devanagari 714';
-	color:white;
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	color: white;
 	padding: 40px;
-	background-color: #482B7A ;
+	background-color: #482B7A;
 	border-radius: 80px;
 	border: solid #482B7A 0px;
 	font-style: italic;
 }
 
 
-.grill{
+.grill {
 	display: grid;
 	height: 500px;
 	background-color: #f0f0f0;
@@ -61,32 +63,32 @@ button{
 	padding-top: 50px;
 	padding-bottom: 50px;
 	grid-column-gap: 50px;
-	
+
 }
 
-.frame{
+.frame {
 	border: solid #d3d3d3 3px;
 	padding-left: 30px;
 	padding-right: 30px;
 	background-color: white;
 }
 
-.indent{
-	
+.indent {
+
 	text-indent: 30px;
 	line-height: 20px;
 }
 
-.pricea{
-	font-family: 'Shree Devanagari 714';
+.pricea {
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 	font-size: 12pt;
 	margin: 30px 20px 30px 20px;
 	text-align: center;
 }
 
-.callus{
-	color:#482B7A;
-	font-family: 'Helvetica Neue';
+.callus {
+	color: #482B7A;
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 	font-size: 30pt;
 	text-align: center;
 	margin-top: 20px;
@@ -95,18 +97,20 @@ button{
 	font-style: italic;
 }
 
-div{
-	font-family: ''Shree Devanagari 714';
+div {
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+
 }
 
-h2{
-	color:#482B7A;
+h2 {
+	color: #482B7A;
 	text-align: center;
 	font-size: 30pt;
-	
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+
 }
 
-.grillb{
+.grillb {
 	display: grid;
 	grid-template-columns: 50% 50%;
 	height: 400px;
@@ -114,110 +118,133 @@ h2{
 
 }
 
-.grillbis{
+.grillbis {
 	display: grid;
 	grid-template-columns: 50% 50%;
 	grid-row-gap: 5px;
 
 }
 
-.divb{
-	background-color:#f0f0f0;
+.divb {
+	background-color: #f0f0f0;
 	padding-top: 30px;
 	padding-bottom: 90px;
 }
 
-.pricetag{
+.pricetag {
 	font-size: 30pt;
-	color:#482B7A;
+	color: #482B7A;
 }
 
-figcaption{
-	font-family: 'Shree Devanagari 714';
+figcaption {
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 	font-size: 12pt;
 	margin-top: 20px;
 	margin-left: 130px;
 	padding-right: 30px;
 }
 
-.image{
+.image {
 	margin-left: 120px;
 }
-footer{
+
+footer {
 	text-align: center;
-	color:grey;
+	color: grey;
 	margin-top: 20px;
 	margin-bottom: 50px;
 	font-style: italic;
-	font-family: 'Shree Devanagari 714';
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 	font-style: italic;
-	
+
 }
 
-.mail{
+.mail {
 	font-size: 30pt;
-	color:#EEA220;
+	color: #EEA220;
 }
 
-.aboutdiv{
+.aboutdiv {
 	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
-	
+
 }
 
-.aboutuspic{
+.aboutuspic {
 	margin-left: 200px;
 	margin-top: 70px;
 }
 
-.headerabout{
+.headerabout {
 	margin-top: 200px;
 	margin-left: -300px;
 	line-height: -1;
-	font-family: 'Shree Devanagari 714';
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 }
 
-.textus{
-	color:rgb(94, 94, 94);
+.textus {
+	color: rgb(94, 94, 94);
 	font-size: 12pt;
-	font-family: 'Shree Devanagari 714';
+	font-family: 'Shree Devanagari 714';'Helvetica Neue'
 	text-indent: 30px;
 	text-align: justify;
 
 }
 
 h3 {
-	font-family: 'Shree Devanagari 714';
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
 	font-size: 16pt;
 	margin-top: 50px;
-	
+
 }
 
-.submail{
+.submail {
 	text-align: center;
 	font-size: 14pt;
 }
 
-.aboutbutton{
+.aboutbutton {
 	font-size: 14pt;
 	padding: 20px;
 	float: right;
 	margin-right: 50px;
- }
-<form{
+}
+
+<form {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
 }
-input{
-	
-	width:500px;
+
+.priceimg {
+	width: 100%
+}
+
+form{
+	text-align: center;
+}
+
+input[type=text] {
+	width: 500px;
 	padding: 10px;
 	border: none;
 	border-bottom: solid 4px #cccccc;
+	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-size: 14pt;
+
 }
 
-.priceimg{
-	width: 100%
+input[type=submit] {
+	background-color: #482B7A;
+	border: none;
+	color: white;
+	padding: 20px;
+	padding: 20px;
+	text-decoration: none;
+	cursor: pointer;
+	font-family: 'SHree Devanagari 714';'Helvetica Neue';
+	font-size: 14pt;
+	border-radius: 30px;
+
 }
