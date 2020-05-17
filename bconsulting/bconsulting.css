@@ -148,5 +148,76 @@ footer{
 	color:grey;
 	margin-top: 20px;
 	margin-bottom: 50px;
+	font-style: italic;
+	font-family: 'Shree Devanagari 714';
+	font-style: italic;
 	
+}
+
+.mail{
+	font-size: 30pt;
+	color:#EEA220;
+}
+
+.aboutdiv{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.aboutuspic{
+	margin-left: 200px;
+	margin-top: 70px;
+}
+
+.headerabout{
+	margin-top: 200px;
+	margin-left: -300px;
+	line-height: -1;
+	font-family: 'Shree Devanagari 714';
+}
+
+.textus{
+	color:rgb(94, 94, 94);
+	font-size: 12pt;
+	font-family: 'Shree Devanagari 714';
+	text-indent: 30px;
+	text-align: justify;
+
+}
+
+h3 {
+	font-family: 'Shree Devanagari 714';
+	font-size: 16pt;
+	margin-top: 50px;
+	
+}
+
+.submail{
+	text-align: center;
+	font-size: 14pt;
+}
+
+.aboutbutton{
+	font-size: 14pt;
+	padding: 20px;
+	float: right;
+	margin-right: 50px;
+ }
+<form{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+input{
+	
+	width:500px;
+	padding: 10px;
+	border: none;
+	border-bottom: solid 4px #cccccc;
+}
+
+.priceimg{
+	width: 100%
 }
