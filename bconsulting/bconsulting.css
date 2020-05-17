@@ -33,6 +33,14 @@ h1 {
 
 }
 
+hr {
+	width: 50px;
+	height: 5px;
+	background-color: #482B7A;
+	border: none;
+	
+}
+
 .heroimg {
 	background-image: url(Hero_image_p2.jpg);
 	background-size: cover;
@@ -181,6 +189,8 @@ footer {
 	margin-left: -300px;
 	line-height: -1;
 	font-family: 'Shree Devanagari 714';'Helvetica Neue';
+	font-size: 35pt;
+	font-weight:bolder;
 }
 
 .textus {
