@@ -84,6 +84,63 @@ button {
 	font-style: italic;
 }
 
+/*--- HOME ---*/ 
+
+
+#coachblurbs {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.floatleft {
+    float: left;
+}
+
+.clear {
+    clear: left;
+}
+
+#A1 {
+    width: 600px;
+}
+
+#A3 {
+    width: 600px;
+}
+
+#test {
+    text-align: center;
+    margin: 20px;
+    
+}
+
+#subscribe {
+    text-align: center;
+}
+
+#splash {
+  height: 400px;
+  background-image: url(images/HomeSplash.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+#consult {
+  width: 20rem;
+  padding: 1rem;
+  background-color: #482B7A;
+  color: white;
+    font-family: 'Shree Devanagari 714';
+    'Arial';
+    margin-left: 252px;
+}
+
 /* --- SERVICE : DESCRIPTION --- */ 
 
 .grill {
