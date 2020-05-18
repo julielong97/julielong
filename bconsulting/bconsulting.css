@@ -86,49 +86,14 @@ button {
 
 /*--- HOME ---*/ 
 
-
-#coachblurbs {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    grid-column-gap: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-}
-
-.floatleft {
-    float: left;
-}
-
-.clear {
-    clear: left;
-}
-
-#A1 {
-    width: 600px;
-}
-
-#A3 {
-    width: 600px;
-}
-
-#test {
-    text-align: center;
-    margin: 20px;
-    
-}
-
-#subscribe {
-    text-align: center;
-}
-
 #splash {
   height: 400px;
-  background-image: url(images/HomeSplash.jpg);
+  background-image: url(HomeSplash.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
   justify-content: left;
+margin-bottom: 30px;
 }
 
 #consult {
@@ -139,6 +104,64 @@ button {
     font-family: 'Shree Devanagari 714';
     'Arial';
     margin-left: 252px;
+}
+
+#coachblurbs {
+    display: grid;
+    grid-template-columns: 50% 50%;
+	grid-column-gap: 50px;
+	grid-row-gap: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+.floatleft {
+    float: left;
+	margin-top: 50px;
+}
+
+#floatleftb {
+    float: left;
+}
+
+.clear {
+    clear: left;
+}
+
+#clearb {
+    clear: left;
+	margin-top: 50px;
+}
+
+#A1 {
+    width: 600px;
+	font-family: 'Shree Devanagari 714';
+    'Arial';
+	text-indent: 30px;
+	flex-shrink: 14pt;
+}
+
+#A3 {
+    display: block;
+	width: 800px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Shree Devanagari 714';
+    'Arial';
+	text-indent: 30px;
+	flex-shrink: 14pt;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#test {
+    text-align: center;
+	background-image: url(Testibkg.jpg);
+	padding: 50px;
+	background-size: cover;
+    
 }
 
 /* --- SERVICE : DESCRIPTION --- */ 
