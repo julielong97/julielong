@@ -17,10 +17,15 @@
  	text-align: center;
  }
 
+img{
+	max-width: 100%;
+}
+
  #splash {
  	font-size: 2rem;
  	line-height: 2, 5rem;
  	height: 10.7rem;
+	
  }
 
  main {
