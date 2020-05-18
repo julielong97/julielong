@@ -9,6 +9,9 @@ nav a {
 	margin-left: 40px;
 
 }
+a:hover {
+	color:#b49fe2
+}
 
 nav {
 	text-align: center;
